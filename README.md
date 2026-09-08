@@ -1622,6 +1622,7 @@
 - [radareorg/radare2-mcp](https://github.com/radareorg/radare2-mcp) — MCP stdio server for radare2 ☆`305`
 - [13bm/GhidraMCP](https://github.com/13bm/GhidraMCP) — Active Socket based MCP Server for Ghidra ☆`137`
 - [pullkitsan/mobsf-mcp-server](https://github.com/pullkitsan/mobsf-mcp-server) — MobSF APK and IPA security scanning ☆`21`
+- [LING71671/open-reverselab](https://github.com/LING71671/open-reverselab) — Agent-native reverse-engineering lab whose MCP server exposes Ghidra headless, Frida, x64dbg, Rizin and YARA tooling, plus a runnable CTF/APK/PE attack knowledge base ☆`1,101`
 ### SIEM & SecOps
 
 - [beelzebub-labs/beelzebub](https://github.com/beelzebub-labs/beelzebub) — Low-code honeypot with AI virtualization ☆`2,170`
